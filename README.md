@@ -1,5 +1,5 @@
 # 💫 About Me:
-Self-motivated computer science student with a passion for coding. Recently graduated in BCA and ready to take on the tech world!
+I am a self-motivated computer science student with a passion for coding. I have graduated with a BCA degree and I am ready to conquer the tech world!
 
 
 ## 🌐 Socials:
@@ -15,11 +15,8 @@ Self-motivated computer science student with a passion for coding. Recently grad
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Afnan011&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Afnan011&icon=0&color=0)](https://visitcount.itsvg.in)
